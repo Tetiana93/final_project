@@ -70,7 +70,7 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 
 ## Acknowledgments
 
-- [Source] for providing the COVID-19 cases and deaths data.
+- Centers for Medicare & Medicaid Services for providing the COVID-19 cases and deaths data.
 - Facebook's Prophet library for time series forecasting.
 - Seasonal decomposition techniques for identifying seasonal patterns in the data.
 
